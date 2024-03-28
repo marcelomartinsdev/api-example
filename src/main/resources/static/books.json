@@ -1,0 +1,142 @@
+[
+  {
+    "titulo": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "autor": "Robert C. Martin",
+    "area": "Engenharia de Software",
+    "numero_de_paginas": 464,
+    "imagem": "https://m.media-amazon.com/images/I/41-sN-mzwKL.jpg",
+    "editora": "Prentice Hall",
+    "ano_de_publicacao": 2008,
+    "ISBN": "978-0132350884"
+  },
+  {
+    "titulo": "The Pragmatic Programmer: Your Journey to Mastery, 20th Anniversary Edition",
+    "autor": "Andrew Hunt, David Thomas",
+    "area": "Programação",
+    "numero_de_paginas": 352,
+    "imagem": "https://m.media-amazon.com/images/I/51cUVaBWZzL.jpg",
+    "editora": "Addison-Wesley Professional",
+    "ano_de_publicacao": 2019,
+    "ISBN": "978-0135957059"
+  },
+  {
+    "titulo": "Design Patterns: Elements of Reusable Object-Oriented Software",
+    "autor": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+    "area": "Design de Software",
+    "numero_de_paginas": 395,
+    "imagem": "https://m.media-amazon.com/images/I/51kuc0iWoKL.jpg",
+    "editora": "Addison-Wesley Professional",
+    "ano_de_publicacao": 1994,
+    "ISBN": "978-0201633610"
+  },
+  {
+    "titulo": "Refactoring: Improving the Design of Existing Code",
+    "autor": "Martin Fowler",
+    "area": "Engenharia de Software",
+    "numero_de_paginas": 448,
+    "imagem": "https://m.media-amazon.com/images/I/41LBzpPXCOL.jpg",
+    "editora": "Addison-Wesley Professional",
+    "ano_de_publicacao": 2018,
+    "ISBN": "978-0134757599"
+  },
+  {
+    "titulo": "You Don't Know JS: Up & Going",
+    "autor": "Kyle Simpson",
+    "area": "JavaScript",
+    "numero_de_paginas": 88,
+    "imagem": "https://m.media-amazon.com/images/I/41as+WafrFL.jpg",
+    "editora": "O'Reilly Media",
+    "ano_de_publicacao": 2015,
+    "ISBN": "978-1491924464"
+  },
+  {
+    "titulo": "Eloquent JavaScript: A Modern Introduction to Programming",
+    "autor": "Marijn Haverbeke",
+    "area": "JavaScript",
+    "numero_de_paginas": 472,
+    "imagem": "https://m.media-amazon.com/images/I/51IKycqTPUL.jpg",
+    "editora": "No Starch Press",
+    "ano_de_publicacao": 2018,
+    "ISBN": "978-1593279509"
+  },
+  {
+    "titulo": "Python Crash Course: A Hands-On, Project-Based Introduction to Programming",
+    "autor": "Eric Matthes",
+    "area": "Python",
+    "numero_de_paginas": 544,
+    "imagem": "https://m.media-amazon.com/images/I/51FHuacxYjL.jpg",
+    "editora": "No Starch Press",
+    "ano_de_publicacao": 2019,
+    "ISBN": "978-1593279288"
+  },
+  {
+    "titulo": "The Art of Computer Programming, Volumes 1-4A Boxed Set",
+    "autor": "Donald E. Knuth",
+    "area": "Ciência da Computação",
+    "numero_de_paginas": 3168,
+    "imagem": "https://m.media-amazon.com/images/I/41eg%2BO4uEqL.jpg",
+    "editora": "Addison-Wesley Professional",
+    "ano_de_publicacao": 2011,
+    "ISBN": "978-0321751041"
+  },
+  {
+    "titulo": "Introduction to Algorithms, 3rd Edition",
+    "autor": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+    "area": "Algoritmos",
+    "numero_de_paginas": 1312,
+    "imagem": "https://m.media-amazon.com/images/I/41T0iBxY8FL.jpg",
+    "editora": "The MIT Press",
+    "ano_de_publicacao": 2009,
+    "ISBN": "978-0262033848"
+  },
+  {
+    "titulo": "Cracking the Coding Interview: 189 Programming Questions and Solutions",
+    "autor": "Gayle Laakmann McDowell",
+    "area": "Preparação para Entrevistas",
+    "numero_de_paginas": 687,
+    "imagem": "https://m.media-amazon.com/images/I/51l5XzLln+L.jpg",
+    "editora": "CareerCup",
+    "ano_de_publicacao": 2015,
+    "ISBN": "978-0984782857"
+  },
+  {
+    "titulo": "JavaScript: The Good Parts",
+    "autor": "Douglas Crockford",
+    "area": "JavaScript",
+    "numero_de_paginas": 176,
+    "imagem": "https://m.media-amazon.com/images/I/51gdVAEfPUL.jpg",
+    "editora": "O'Reilly Media",
+    "ano_de_publicacao": 2008,
+    "ISBN": "978-0596517748"
+  },
+  {
+    "titulo": "Head First Design Patterns: A Brain-Friendly Guide",
+    "autor": "Eric Freeman, Bert Bates, Kathy Sierra, Elisabeth Robson",
+    "area": "Design de Software",
+    "numero_de_paginas": 694,
+    "imagem": "https://m.media-amazon.com/images/I/61APhXCksuL.jpg",
+    "editora": "O'Reilly Media",
+    "ano_de_publicacao": 2004,
+    "ISBN": "978-0596007126"
+  },
+  {
+    "titulo": "The Clean Coder: A Code of Conduct for Professional Programmers",
+    "autor": "Robert C. Martin",
+    "area": "Engenharia de Software",
+    "numero_de_paginas": 256,
+    "imagem": "https://m.media-amazon.com/images/I/41+Y+4c9esL.jpg",
+    "editora": "Prentice Hall",
+    "ano_de_publicacao": 2011,
+    "ISBN": "978-0137081073"
+  },
+  {
+    "titulo": "Effective Java",
+    "autor": "Joshua Bloch",
+    "area": "Java",
+    "numero_de_paginas": 416,
+    "imagem": "https://m.media-amazon.com/images/I/518FqJvR9aL.jpg",
+    "editora": "Addison-Wesley Professional",
+    "ano_de_publicacao": 2018,
+    "ISBN": "978-0134685991"
+  }
+]
